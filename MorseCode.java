@@ -24,7 +24,7 @@ public class MorseCode {
         System.out.println("\t\tMorse Code Generator!\n\nusage: java MorseCode <input>\n\n" +
                             "Example: java MorseCode hello or java MorseCode \"Help Me\"\n\n" +
                             "Options: -h\thelp\n         -r\tmorsecode to english\n\n"+
-                            "NOTE: in this program the white spaces (' ') are converted as '/' and vice versa morse code is ");
+                            "NOTE: in this program the white spaces (' ') are converted as '/' and vice versa.");
         System.exit(0);
     }
     private static void EnglishToMorse(String[] EnglishInput){

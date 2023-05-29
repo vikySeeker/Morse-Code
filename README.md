@@ -1,22 +1,22 @@
-#Ineffecient Yet Simple Morse Code Generator using java
+# Ineffecient Yet Simple Morse Code Generator using java
 
-##Requirements:
+## Requirements:
 
 Java JDK
 
-##Instructions to Run:
+## Instructions to Run:
 
 javac MorseCode.java
 
 java MorseCode -h
 
-##Options:
+## Options:
 
-###English to morse code:
+### English to morse code:
 
     Example: java MorseCode 'hello world' 'welcome to morse code'
 
-##Morse code to English
+## Morse code to English
 
     Example: java MorseCode -r '.... . .-.. .-.. --- / .-- --- .-. .-.. -..' '.-- . .-.. -.-. --- -- . / - --- / .. ... .-.. .- -. -..'
 
